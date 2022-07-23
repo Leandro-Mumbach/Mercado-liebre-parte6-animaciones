@@ -9,6 +9,7 @@
     text-decoration: underline;}
 .login-main-form{
     display: flex;
+    margin-bottom: 15px;
     justify-content: center;}
 .login-main-form-div{
     width: 80%;}
@@ -36,7 +37,7 @@
     border-radius: 5px;
     transition: 1s;
     cursor: pointer;}
-.login-main-button :hover{
+.login-main-button:hover{
     background-color: #0022AA;
-    transition: 1s;
+    transition: 0.5s;
 }

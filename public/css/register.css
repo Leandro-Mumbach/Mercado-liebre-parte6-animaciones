@@ -38,8 +38,12 @@
     width: max-content;
     padding: 5px;
     border-radius: 8px;
-    background-color: #03264C;
-    color: white;}
+    background-color: #1259c3;
+    color: white;
+    cursor: pointer;}
+.register-main-div-fotoUsuario:hover{
+    background-color: #0022AA;
+    transition: 0.5s;}
 .register-main-div-fotoUsuario input{
     display: none;}
 .register-main-div-enviar_borrar{
@@ -49,7 +53,11 @@
     margin: 0px 17px 20px 17px;
     padding: 5px;
     border-radius: 8px;
-    background-color: #03264C;
-    color: white
+    background-color: #1259c3;
+    cursor: pointer;
+    color: white}
+.register-main-div-enviar_borrar button:hover{
+    background-color: #0022AA;
+    transition: 0.5s;
 }
 
