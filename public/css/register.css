@@ -1,0 +1,55 @@
+.register-main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #ebebeb;}
+.register-main-h1{
+    width: 100%;
+    text-align: center;
+    text-decoration: underline;}
+.register-main-form{
+    width: 80%;}
+.register-main-div input{
+    width: 100%;
+    padding: 0px 0px 0px 5px;
+    margin: 0px 0px 30px 0px;
+    border: 0px;
+    height: 25px;
+    border-radius: 5px;
+    outline: none;}
+.register-main-p{
+    font-weight: bold;
+    margin-top: 0px;}
+.register-main-div-perfilUsuario{
+    margin: 15px;}
+.register-main-div-perfilUsuario label{
+    margin: 0px 15px;}
+.register-main-div-catInteres{
+    display: flex;
+    flex-direction: column;}
+.register-main-div-hijo_catInteres{
+    margin: 10px;
+    display: flex;}
+.register-main-div-hijo_catInteres label{
+    padding: 0px 10px;}
+.register-main-div-fotoUsuario{
+    margin: 15px 0px 15px 37px;
+    border: solid 1px black;
+    width: max-content;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: #03264C;
+    color: white;}
+.register-main-div-fotoUsuario input{
+    display: none;}
+.register-main-div-enviar_borrar{
+    display: flex;
+    justify-content: center;}
+.register-main-div-enviar_borrar button{
+    margin: 0px 17px 20px 17px;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: #03264C;
+    color: white
+}
+
